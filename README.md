@@ -16,15 +16,17 @@
 
 IRR 表示与没有收到宣传资料相比，因为推广活动而购买产品的客户增加了多少。从数学角度来说，IRR 等于推广小组的购买者人数与购买者小组客户总数的比例 (_treatment_) 减去非推广小组的购买者人数与非推广小组的客户总数的比例 (_control_)。
 
-$$ IRR = \frac{purch_{treat}}{cust_{treat}} - \frac{purch_{ctrl}}{cust_{ctrl}} $$
-
+```
+  IRR = purch_treat/cust_treat - purch_ctrl/cust_ctrl
+```
 
 * **净增量收入 (NIR)**
 
 NIR 表示分发宣传资料后获得（丢失）了多少收入。从数学角度来讲，NIR 等于收到宣传资料的购买者总人数的 10 倍减去分发的宣传资料份数的 0.15 倍，再减去没有收到宣传资料的购买者人数的 10 倍。
 
-$$ NIR = (10\cdot purch_{treat} - 0.15 \cdot cust_{treat}) - 10 \cdot purch_{ctrl}$$
-
+```
+  NIR = (10*purch_treat - 0.15*cust_treat) - 10*purch_ctrl
+```
 
 ### Built With
 
