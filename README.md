@@ -1,7 +1,7 @@
 ## 星巴克促销活动 A/B 测试
 
 <div align="center">
-<img src="https://opj.ca/wp-content/uploads/2018/02/New-Starbucks-Logo-1200x969.jpg" width="400" height="200">
+<img src="https://opj.ca/wp-content/uploads/2018/02/New-Starbucks-Logo-1200x969.jpg">
 </div>
  
 #### 背景信息
